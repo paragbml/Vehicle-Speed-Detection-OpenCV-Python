@@ -1,2 +1,2 @@
-# Vehicle-Speed-Detection-OpenCV-Python
-Vehicle Speed Detection by using OpenCV with Python with vehicle surface cascade detector datasets.
+# vehicle-speed-detection-using-opencv-python
+Developed by ParagBml
