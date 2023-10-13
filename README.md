@@ -1,14 +1,16 @@
 # Vehicle Speed Detection OpenCV with Python
+
 Includes : Vehicle Cascade detecting datasets.
+
 Developed by ParagBml
+
 Apache 2.0 Licensed.
 
-Prerequisites Libraries:
-
+""Prerequisites Libraries:
 import cv2
 import dlib
 import time
-import math
+import math""
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Usage:
