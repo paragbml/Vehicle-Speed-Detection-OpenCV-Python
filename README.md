@@ -6,11 +6,11 @@ Developed by ParagBml
 
 Apache 2.0 Licensed.
 
-""Prerequisites Libraries:
+Prerequisites Libraries:
 import cv2
 import dlib
 import time
-import math""
+import math
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Usage:
